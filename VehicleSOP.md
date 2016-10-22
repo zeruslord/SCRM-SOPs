@@ -1,16 +1,17 @@
-#Scream and Panic vehicle standard operating procedures
+# Scream and Panic vehicle standard operating procedures
 
 ## Universal
 - Don't auto-spawn, use M to get into the map and pick your spawn from there.  If running vehicles, wait to spawn until your squad lead or driver tells you where to go
 
 ### Comms
 - The nose of the vehicle is the front for calling spots and targets.  In a harasser, this is often none of the direction of motion, the direction the gunner is looking, or the direction the driver is looking.
+- when running a single vehicle or working independently, use directions relative to the vehicle.  When working with a group, cardinal directions are more useful to oter vehicles.
 - Comms time is a limited resource in combat, so keep things as terse as possible.  See the Callouts section for a how-to.
 - When running halberd or an MBT main cannon, count your hits.  "one in" means you hit once, "two in rear" means two shots hit rear armor.  If we're rolling just one or two vehicles, you can call misses as well, but if you count your hits consistently, not calling a hit will tell the driver you missed.
 - Tell people who you're up against - we don't know every decent vehicle player, but the more experienced guys know what outfit tags to be afraid of and who the top players are.
 - commnicate when it's time to repair and what kind of reps to do.  "Double" means both out and repair, "Single" means driver gets out to repair, "backseat" in a harasser means the gunner siwtches to seat three to repair on the move.
 
-###Callouts
+### Callouts
 - "On X" means X is the current target.  "On" can be added to any vehicle callout.
 - if you hear a weapon sound to the left, say "hear *weapon* left"
 - if you see a vehicle to the left, say  "*vehicle* left".  If it's an MBT or sunderer and you know the gun, say "*weapon* *vehicle* left".  If it's a harasser and you recognize the gun, just say "*weapon* left".
